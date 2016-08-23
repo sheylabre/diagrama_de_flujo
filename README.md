@@ -4,12 +4,12 @@
 1.- inicio 
 2.- Mirar anuncio 
 3.- ¿Que pedir?
- -pollo
- -carne
+    -pollo
+    -carne
 4.- Llamar
 5.- contestar
- -Si
- -No ( Empezar desde 3)
+    -Si
+    -No ( Empezar desde 3)
 6.- dar datos
 7.- confirmar pedido
 8.- esperar
