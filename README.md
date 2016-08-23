@@ -1,4 +1,3 @@
-# diagrama_de_flujo
 # Proyecto Diagrama de Flujo ( Delivery)
 ### Hemos creado un diagrama para ver la forma como es el proceso del pedido
 
